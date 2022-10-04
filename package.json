@@ -1,0 +1,25 @@
+{
+  "name": "profile-gen",
+  "version": "1.0.0",
+  "description": "Week 10 challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SebasMelendez/profile-gen.git"
+  },
+  "author": "Seb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SebasMelendez/profile-gen/issues"
+  },
+  "homepage": "https://github.com/SebasMelendez/profile-gen#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  },
+  "devDependencies": {
+    "jest": "^29.1.2"
+  }
+}
